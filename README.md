@@ -38,7 +38,7 @@ This project was built using these technologies.
 
 **📱 Fully Responsive**
 
+## Check it
+<a href="https://portfolio-theta-six-75.vercel.app" target="_blank" rel="noopener noreferrer">HERE</a>
 
-<a href="https://portfolio-theta-six-75.vercel.app/" target="_blank" rel="noopener noreferrer">Check it here </a>
-[Check it HERE](href="https://portfolio-theta-six-75.vercel.app)
 
