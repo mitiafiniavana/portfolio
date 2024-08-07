@@ -39,4 +39,4 @@ This project was built using these technologies.
 **📱 Fully Responsive**
 
 
-<a href="https://portfolio-theta-six-75.vercel.app/">Check it here </a>
+<a href="https://portfolio-theta-six-75.vercel.app/" target="_blank">Check it here </a>
