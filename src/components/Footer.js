@@ -1,9 +1,10 @@
 import React from "react";
 import { Container, Row, Col } from "react-bootstrap";
+import { FaSquareXTwitter } from "react-icons/fa6";
 import {
   AiFillGithub,
-  AiOutlineTwitter,
-  AiFillFacebook,
+  //AiOutlineTwitter,
+  
 } from "react-icons/ai";
 import { FaLinkedinIn } from "react-icons/fa";
 
@@ -33,17 +34,17 @@ function Footer() {
             </li>
             <li className="social-icons">
               <a
-                href="https://twitter.com/Mitia_Fi"
+                href="https://x.com/Mitia_Fi"
                 style={{ color: "white" }}
                 target="_blank" 
                 rel="noopener noreferrer"
               >
-                <AiOutlineTwitter />
+                <FaSquareXTwitter />
               </a>
             </li>
             <li className="social-icons">
               <a
-                href="https://www.linkedin.com/in/mitia-finiavana-jos%C3%A9-heriniaina-tafitasoa-4b19b72ba/"
+                href="https://www.linkedin.com/in/mitia-4b19b72ba/"
                 style={{ color: "white" }}
                 target="_blank" 
                 rel="noopener noreferrer"
@@ -51,16 +52,7 @@ function Footer() {
                 <FaLinkedinIn />
               </a>
             </li>
-            <li className="social-icons">
-              <a
-                href="https://web.facebook.com/mitia.grosminet"
-                style={{ color: "white" }}
-                target="_blank" 
-                rel="noopener noreferrer"
-              >
-                <AiFillFacebook />
-              </a>
-            </li>
+
           </ul>
         </Col>
       </Row>

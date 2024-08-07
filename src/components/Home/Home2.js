@@ -2,10 +2,11 @@ import React from "react";
 import { Container, Row, Col } from "react-bootstrap";
 import myImg from "../../Assets/Mitia6.png";
 import Tilt from "react-parallax-tilt";
+import { FaSquareXTwitter } from "react-icons/fa6";
 import {
   AiFillGithub,
-  AiOutlineTwitter,
-  AiFillFacebook,
+  //AiOutlineTwitter,
+  
 } from "react-icons/ai";
 import { FaLinkedinIn } from "react-icons/fa";
 
@@ -67,17 +68,17 @@ function Home2() {
               </li>
               <li className="social-icons">
                 <a
-                  href="https://twitter.com/Mitia_Fi"
+                  href="https://x.com/Mitia_Fi"
                   target="_blank"
                   rel="noreferrer"
                   className="icon-colour  home-social-icons"
                 >
-                  <AiOutlineTwitter />
+                  <FaSquareXTwitter />
                 </a>
               </li>
               <li className="social-icons">
                 <a
-                  href="https://www.linkedin.com/in/mitia-finiavana-jos%C3%A9-heriniaina-tafitasoa-4b19b72ba/"
+                  href="https://www.linkedin.com/in/mitia-4b19b72ba/"
                   target="_blank"
                   rel="noreferrer"
                   className="icon-colour  home-social-icons"
@@ -85,16 +86,7 @@ function Home2() {
                   <FaLinkedinIn />
                 </a>
               </li>
-              <li className="social-icons">
-                <a
-                  href="https://web.facebook.com/mitia.grosminet"
-                  target="_blank"
-                  rel="noreferrer"
-                  className="icon-colour home-social-icons"
-                >
-                  <AiFillFacebook />
-                </a>
-              </li>
+
             </ul>
           </Col>
         </Row>

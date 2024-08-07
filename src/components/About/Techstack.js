@@ -13,7 +13,7 @@ import {
 import {
   SiTailwindcss,
   SiMysql,
-  SiNextjs,
+  SiNextdotjs,
   SiSymfony,
   SiPostgresql,
 } from "react-icons/si";
@@ -44,7 +44,7 @@ function Techstack() {
         <DiMongodb />
       </Col>
       <Col xs={4} md={2} className="tech-icons">
-        <SiNextjs />
+      <SiNextdotjs />
       </Col>
       <Col xs={4} md={2} className="tech-icons">
         <DiLaravel />
